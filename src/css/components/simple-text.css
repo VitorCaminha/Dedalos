@@ -1,0 +1,5 @@
+.simple-text {
+    font-family: "Century Gothic", serif;
+    font-weight: Bold;
+    color: var(--secundary-color);
+}
